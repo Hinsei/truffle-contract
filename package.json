@@ -28,7 +28,7 @@
     "ethjs-abi": "0.1.8",
     "truffle-blockchain-utils": "^0.0.4",
     "truffle-contract-schema": "^2.0.0",
-    "truffle-error": "0.0.2",
+    "truffle-error": "Hinsei/truffle-error#develop",
     "web3": "^0.20.1"
   },
   "devDependencies": {

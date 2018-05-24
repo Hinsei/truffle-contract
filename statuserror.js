@@ -1,5 +1,5 @@
 var TruffleError = require("truffle-error");
-var inherits = require("util").inherits;
+var inherits = require("inherits");
 var web3 = require("web3");
 
 inherits(StatusError, TruffleError);
